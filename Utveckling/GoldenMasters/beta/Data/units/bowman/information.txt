@@ -1,0 +1,2 @@
+peasant catapult cavalry
+Light and fast moving units that rain arrows down on their enemies. They are effective against light armored units like catapults and horsemen. Sadly wooden arrows can not damage the steel shields and armor used by knights and soldiers.

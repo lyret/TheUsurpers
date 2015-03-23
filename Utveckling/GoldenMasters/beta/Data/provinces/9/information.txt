@@ -1,0 +1,7 @@
+10 13 17
+Agartha
+royal bowman catapult knight soldier cavalry
+
+
+200 278
+A landscape.

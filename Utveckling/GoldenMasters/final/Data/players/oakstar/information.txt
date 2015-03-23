@@ -1,0 +1,5 @@
+House Oakstar
+0
+white
+241,241,241
+A waring faction.

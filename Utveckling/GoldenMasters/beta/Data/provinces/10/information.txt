@@ -1,0 +1,7 @@
+11 14 13
+Vanberg
+
+gold 245 281
+Gold Mine
+277 230
+A landscape.

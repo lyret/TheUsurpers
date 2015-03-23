@@ -1,0 +1,2 @@
+cavalry
+Allows you to train Cavalry. 

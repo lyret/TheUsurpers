@@ -1,0 +1,5 @@
+De Korbat
+0
+red
+255,2,0
+A waring faction.

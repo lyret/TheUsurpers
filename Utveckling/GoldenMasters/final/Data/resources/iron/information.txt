@@ -1,0 +1,2 @@
+soldier
+Allows you to train Soldiers. 

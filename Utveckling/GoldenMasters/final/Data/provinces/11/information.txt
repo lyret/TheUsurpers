@@ -1,0 +1,6 @@
+14
+East Haven
+
+stone 366 261
+Stone Mine
+384 196

@@ -1,0 +1,7 @@
+20 17
+Noctum
+
+gold 197 482
+Gold Mine
+223 428
+Also, a landscape.

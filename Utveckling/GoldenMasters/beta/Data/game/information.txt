@@ -1,0 +1,13 @@
+title:
+The Usurpers
+
+window:
+1200
+600
+100
+
+framerate:
+60
+
+mapsize:
+20

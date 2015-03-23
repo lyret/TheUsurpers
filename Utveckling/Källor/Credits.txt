@@ -1,0 +1,35 @@
+THE USURPERS WAS MADE BY:
+
+Production
+Viktor Lyresten
+
+Game Design and implementation
+Viktor Lyresten
+
+Story and environment:
+Magnus Engström
+
+Original music and game art:
+Markus Tinnfält
+
+
+
+ADDITIONAL RESOURCES:
+
+Fontfaces:
+
+Cabin made by Igino Marini & Pablo Impallari
+www.impallari.com/cabin
+
+Linux libertine made by Philipp Poll
+http://www.linuxlibertine.org/
+
+Pirata One made by Rodrigo Fuenzalida
+http://www.rfuenzalida.com
+
+
+
+Map:
+
+Map generator made by Red Blob Games
+http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/

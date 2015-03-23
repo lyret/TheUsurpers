@@ -1,0 +1,2 @@
+peasant bowman cavalry
+Common infantry equipped with long spears made of steel. They are not as well trained as knights but can easily defend themselves against bowmen and cavalry. Due to their tight formations and slow movement speed they are vulnerable against catapult fire.

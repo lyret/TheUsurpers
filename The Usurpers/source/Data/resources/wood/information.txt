@@ -1,0 +1,2 @@
+bowman
+Allows you to train Bowmen.
